@@ -18,6 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "push": " git push --set-upstream https://github.com/Sreenivas1323/REACT_confusion.git master"
   }
 }
